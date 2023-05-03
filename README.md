@@ -1,12 +1,12 @@
 # Health Plus 🏥
 Health Plus is a versatile and stylish medical-themed website that can help enhance your online presence and expand your services globally. It is an excellent choice for various medical-related businesses such as hospitals, clinics, medical practices, dentists, psychiatrists and many more. Built entirely on Bootstrap framework, HTML5, CSS3, and JQuery, this fully responsive cross-browser website can be viewed on all devices and screen sizes. 
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based Health care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://mango-ground-048f0b600.3.azurestaticapps.net/
 
-**project demo video link** - https://youtu.be/8YBD2Cqz8Xk
+**Project Demo Video Link** - https://youtu.be/8YBD2Cqz8Xk
 
 ## Azure Services used for Project
 
