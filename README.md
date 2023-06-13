@@ -6,8 +6,6 @@ Health Plus is a versatile and stylish medical-themed website that can help enha
 
 **Project Link** - https://mango-ground-048f0b600.3.azurestaticapps.net/
 
-**Project Demo Video Link** - https://youtu.be/8YBD2Cqz8Xk
-
 ## Azure Services used for Project
 
 - Health bot
